@@ -1,4 +1,4 @@
-## BHARATPLAY
+# BHARAT PLAY
 
 A voice assistant radio app
 
